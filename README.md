@@ -1,5 +1,5 @@
 ### Hi 
-- I'm Bill  born in Chiayi city, work in Taipei city ,Taiwan
+- I'm Bill, work in Taipei city ,Taiwan
 - Backend-Engineer
 - Web Developer
 - Skill in Java backend
