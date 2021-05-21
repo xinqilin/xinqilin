@@ -29,7 +29,7 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=xinqilin&count_private=true&show_icons=true&theme=algolia">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php&theme=algolia">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css&theme=algolia">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&theme=algolia" />
 </a>
 </div>
