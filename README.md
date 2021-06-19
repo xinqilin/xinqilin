@@ -3,10 +3,9 @@
 
 ### Hi 
 - I'm Bill, work in Taipei city ,Taiwan
-- Backend-Engineer
-- Web Developer
-- Skill in Java backend
-- A little frontend skill
+- Backend-Engineer / Web Developer
+- Skill in Java, also interested in Kotlin
+- A little frontend work experience in vue / react 
 - Pleased to meet you!
 
 ## Languages and Tools:
