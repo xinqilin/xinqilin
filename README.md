@@ -9,10 +9,6 @@
 - Skill in Java, also interested in Kotlin and Golang
 - A little frontend work experience in vue / react 
 - Pleased to meet you!
-    
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="zh_TW" data-type="vertical" data-theme="dark" data-vanity="bill-lin-47348017a"><a class="LI-simple-link" href='https://tw.linkedin.com/in/bill-lin-47348017a?trk=profile-badge'>Bill Lin</a></div>
 
 ## Languages and Tools:
 <p align="center">
