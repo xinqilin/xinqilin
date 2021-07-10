@@ -1,9 +1,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
 [![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 ### Hi 
-<div>
+
 - I'm Bill, work in Taipei city ,Taiwan
 - Backend-Engineer / Web Developer
 - Android work experience about eight month
@@ -11,8 +10,9 @@
 - A little frontend work experience in vue / react 
 - Pleased to meet you!
     
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="zh_TW" data-type="vertical" data-theme="dark" data-vanity="bill-lin-47348017a"><a class="LI-simple-link" href='https://tw.linkedin.com/in/bill-lin-47348017a?trk=profile-badge'>Bill Lin</a></div>
-</div>
 
 ## Languages and Tools:
 <p align="center">
