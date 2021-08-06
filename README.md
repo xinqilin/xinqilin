@@ -10,6 +10,21 @@
 - A little frontend work experience in react 
 - Pleased to meet you!
 
+  ,---,.              ,--,      ,--,    
+  ,'  .'  \   ,--,    ,--.'|    ,--.'|    
+,---.' .' | ,--.'|    |  | :    |  | :    
+|   |  |: | |  |,     :  : '    :  : '    
+:   :  :  / `--'_     |  ' |    |  ' |    
+:   |    ;  ,' ,'|    '  | |    '  | |    
+|   :     \ '  | |    |  | :    |  | :    
+|   |   . | |  | :    '  : |__  '  : |__  
+'   :  '; | '  : |__  |  | '.'| |  | '.'| 
+|   |  | ;  |  | '.'| ;  :    ; ;  :    ; 
+|   :   /   ;  :    ; |  ,   /  |  ,   /  
+|   | ,'    |  ,   /   ---`-'    ---`-'   
+`----'       ---`-'                       
+                                        
+
 ## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
