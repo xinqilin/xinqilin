@@ -1,6 +1,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
 [![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
+<img src="https://github-profile-xinqilin.vercel.app/?username=xinqilin&column=7&margin-w=15" />
+
 ### Hi 
 
 - I'm Bill, work in Taipei city ,Taiwan
