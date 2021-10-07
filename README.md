@@ -1,7 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
 [![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
-<img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=7&margin-w=15" />
 
 ### Hi 
 
@@ -11,6 +10,9 @@
 - Skill in Java, also interested in Kotlin and Golang
 - A little frontend work experience in react 
 - Pleased to meet you!
+
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=7&margin-w=15" />
 
 ## Languages and Tools:
 <p align="center">
