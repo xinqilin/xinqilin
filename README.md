@@ -40,6 +40,6 @@
    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="400"/>
  </a>
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css&theme=algolia">
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css,javascript&theme=algolia&langs_count=10&layout=compact" />
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=html,css&theme=algolia&langs_count=10&layout=compact" />
  </a>
 
