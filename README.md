@@ -46,4 +46,80 @@
 <figure><embed src="https://wakatime.com/share/@abb22933-8532-4f24-8a13-e9e97bfee0f0/476cd626-33af-4b12-9ee1-fda979ef0572.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 376 Contributions in the Year 2021
+ > 
+> 📦 563.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+🌆 Daytime    142 commits    █████████░░░░░░░░░░░░░░░░   36.88% 
+🌃 Evening    174 commits    ███████████░░░░░░░░░░░░░░   45.19% 
+🌙 Night      64 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+Tuesday      40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
+Wednesday    33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
+Thursday     25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
+Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+Saturday     112 commits    ███████░░░░░░░░░░░░░░░░░░   29.09% 
+Sunday       115 commits    ███████░░░░░░░░░░░░░░░░░░   29.87%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     25 repos            ████████████████░░░░░░░░░   65.79% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/xinqilin/xinqilin/master/charts/bar_graph.png) 
+
+
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
