@@ -43,3 +43,4 @@
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=html,css&theme=algolia&langs_count=10&layout=compact" />
  </a>
 
+<figure><embed src="https://wakatime.com/share/@abb22933-8532-4f24-8a13-e9e97bfee0f0/476cd626-33af-4b12-9ee1-fda979ef0572.svg"></embed></figure>
