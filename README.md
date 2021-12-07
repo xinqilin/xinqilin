@@ -48,20 +48,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 376 Contributions in the Year 2021
- > 
-> 📦 563.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -88,18 +74,7 @@ Sunday       115 commits    ███████░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Taipei
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -115,10 +90,6 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/xinqilin/xinqilin/master/charts/bar_graph.png) 
 
 
  Last Updated on 07/12/2021
