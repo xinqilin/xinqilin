@@ -1,6 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
-[![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
-
 
 ### Hi 
 
@@ -42,10 +39,10 @@
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css&theme=algolia">
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=html,css&theme=algolia&langs_count=10&layout=compact" />
  </a>
+ 
+![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
+[![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
-
-<br />
-<br />
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
