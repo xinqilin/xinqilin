@@ -97,3 +97,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@abb22933-8532-4f24-8a13-e9e97bfee0f0/e937d23b-e152-4ff2-8509-e5b981912493.svg"></embed></figure>
