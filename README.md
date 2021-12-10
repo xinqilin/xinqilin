@@ -1,6 +1,5 @@
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
-[![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
 ### Hi 
 
@@ -43,7 +42,8 @@
  </a>
 </div>
 
-<div width="100%"> 
+[![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
+
  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -89,7 +89,6 @@ Vue                      1 repo              ░░░░░░░░░░░�
  Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
  
- </div>
  
 <!-- <img src="https://wakatime.com/share/@abb22933-8532-4f24-8a13-e9e97bfee0f0/e937d23b-e152-4ff2-8509-e5b981912493.svg"  alt="Coding Chart" style="border-radius: 10px;border: solid 10px;" /> -->
 
