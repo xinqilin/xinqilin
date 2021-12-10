@@ -37,7 +37,7 @@
 
     
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=xinqilin&count_private=true&show_icons=true&theme=algolia">
-   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="500"/>
+   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="450"/>
  </a>
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css&theme=algolia">
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=html,css&theme=algolia&langs_count=10&layout=compact" />
