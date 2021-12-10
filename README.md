@@ -34,16 +34,17 @@
 
 </p>
 
-
-    
+<div width="100%">   
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=xinqilin&count_private=true&show_icons=true&theme=algolia">
-   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="450"/>
+   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="400"/>
  </a>
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css&theme=algolia">
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=html,css&theme=algolia&langs_count=10&layout=compact" />
  </a>
+</div>
 
-
+<div width="100%"> 
+ 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -87,6 +88,9 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
  Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
+ 
+ </div>
+ 
 <!-- <img src="https://wakatime.com/share/@abb22933-8532-4f24-8a13-e9e97bfee0f0/e937d23b-e152-4ff2-8509-e5b981912493.svg"  alt="Coding Chart" style="border-radius: 10px;border: solid 10px;" /> -->
 
 
