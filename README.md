@@ -46,7 +46,7 @@
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2057%20mins-blue)
 
 **I'm a Night 🦉** 
 
