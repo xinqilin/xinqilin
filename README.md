@@ -46,8 +46,6 @@
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2029%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -104,7 +102,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2022 15:44:30 UTC
+ Last Updated on 10/02/2022 18:10:50 UTC
 <!--END_SECTION:waka-->
  
  
