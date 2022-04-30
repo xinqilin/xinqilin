@@ -44,6 +44,7 @@
 
 [![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
+<p><img align="center" src="https://leetcode.card.workers.dev/?username=xinqilin&theme=auto" alt="xinqilin-leetcode" /></p>
  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
