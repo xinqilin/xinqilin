@@ -33,6 +33,8 @@
 
 </p>
 
+<p align="center"><img  src="https://leetcode.card.workers.dev/?username=xinqilin&theme=auto" alt="xinqilin-leetcode" /></p>
+
 <div width="100%">   
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=xinqilin&count_private=true&show_icons=true&theme=algolia">
    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="400"/>
@@ -44,7 +46,6 @@
 
 [![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
-<p><img align="center" src="https://leetcode.card.workers.dev/?username=xinqilin&theme=auto" alt="xinqilin-leetcode" /></p>
  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
