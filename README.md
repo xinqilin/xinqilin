@@ -10,7 +10,7 @@
 - A little frontend work experience in React.js 
 - Pleased to meet you!
 
-<script src="https://embed.github.com/view/3d/xinqilin/xinqilin/master/xinqilin-2021.stl"></script>
+<img src="https://embed.github.com/view/3d/xinqilin/xinqilin/master/xinqilin-2021.stl"></img>
 
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=7&margin-w=15" />
