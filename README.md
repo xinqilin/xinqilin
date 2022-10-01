@@ -7,7 +7,7 @@
 - Backend-Engineer / Web Developer
 - Also have Android work experience about eight month
 - Skill in Java, Kotlin also interested in Golang
-- A little frontend work experience in React.js 
+- A little frontend work experience in React framework with js / ts
 - Pleased to meet you!
 
 
