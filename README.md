@@ -36,18 +36,15 @@
 
 <p align="center"><img  src="https://leetcode.card.workers.dev/?username=xinqilin&theme=auto" alt="xinqilin-leetcode" /></p>
 
-<div width="100%">   
+<!-- <div width="100%">   
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=xinqilin&count_private=true&show_icons=true&theme=algolia">
    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=xinqilin&show_icons=true&theme=algolia&card_width=4" width="400"/>
  </a>
  <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=xinqilin&hide=php,html,css&theme=algolia">
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinqilin&hide=html,css&theme=algolia&langs_count=10&layout=compact" />
  </a>
-</div>
+</div> -->
 
-
-
- 
 [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
