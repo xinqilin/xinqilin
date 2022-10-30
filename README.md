@@ -1,5 +1,6 @@
  
 ![](https://visitor-badge.laobi.icu/badge?page_id=xinqilin.xinqilin)
+[![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
 
 ### Hi 
 
@@ -52,10 +53,6 @@
 [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-
-
-[![Github](https://img.shields.io/github/followers/xinqilin?label=Follow&style=social)](https://github.com/xinqilin)
-
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2059%20mins-blue)
