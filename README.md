@@ -7,7 +7,7 @@
 - I'm Bill, work in Taipei city ,Taiwan
 - Backend Engineer / Web Developer
 - Also have Android work experience about eight month
-- Skill in Java, Kotlin also interested in Golang
+- Skill in Java, Kotlin also interested in Golang and Python
 - A little frontend work experience in React framework with js / ts
 - Pleased to meet you!
 
