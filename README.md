@@ -84,13 +84,14 @@ Sunday       154 commits    █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 19 mins       █████████████████████████   99.87% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 19 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 19 mins       █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +108,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2023 11:09:36 UTC
+ Last Updated on 31/01/2023 11:09:24 UTC
 <!--END_SECTION:waka-->
  
  
