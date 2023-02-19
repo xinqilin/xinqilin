@@ -55,7 +55,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C179%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%2034%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -93,7 +93,6 @@ Shell Script             8 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 IntelliJ                 24 hrs 28 mins      █████████████████████████   99.59 % 
 VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Windows                  24 hrs 17 mins      ████████████████████████░   98.81 % 
@@ -114,7 +113,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 11:08:49 UTC
+ Last Updated on 19/02/2023 11:07:44 UTC
 <!--END_SECTION:waka-->
  
  
