@@ -13,7 +13,9 @@
 
 
 <br />
-<img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=7&margin-w=15" />
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=5&margin-w=15&margin-h=15" />
 
 ## Languages and Tools:
 <p align="center">
@@ -44,11 +46,11 @@
  </a>
 </div> -->
 
-<div align="center">
-
 [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/xinqilin/xinqilin/master/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
  
