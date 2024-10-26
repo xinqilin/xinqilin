@@ -20,7 +20,8 @@ jobs:
           SHOW_LOC_CHART: "True"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "True"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMIT: "True"
+          # SHOW_TOTAL_CODE_TIME: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
 
