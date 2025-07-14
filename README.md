@@ -4,11 +4,11 @@
 
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-- I'm Bill, work in Taipei city ,Taiwan
-- Backend Engineer / Web Developer / Android Developer
-- Skill in Java, Kotlin, JS/TS, Python also interested in Golang
-- Also have Android work experience about eight month
-- A little frontend work experience in React/Vue framework with js / ts
+- I’m Bill, and I work in Taipei City, Taiwan.
+- I’m a Backend Engineer, Web Developer, and Android Developer.
+- Skilled in Java, Kotlin, JavaScript/TypeScript, and Python; also interested in Golang.
+- I also have about eight months of Android development experience.
+- I also have some frontend experience using React and Vue frameworks with JavaScript/TypeScript.
 - Pleased to meet you!
 
 
