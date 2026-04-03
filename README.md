@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=5&margin-w=15&margin-h=15" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=xinqilin&column=5&margin-w=15&margin-h=15" />  -->
 
 ## Languages and Tools:
 <p align="center">
