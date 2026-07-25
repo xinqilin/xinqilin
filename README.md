@@ -71,10 +71,10 @@
 ```text
 Monday       171 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
 Tuesday      146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
-Wednesday    146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
+Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
 Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
 Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
-Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
+Saturday     95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
 Sunday       184 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.99%
 
 ```
@@ -86,20 +86,20 @@ Sunday       184 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   42.15% 
-YAML                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
-Groovy                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+Java                     7 hrs 1 min         ███████████░░░░░░░░░░░░░░   47.43% 
+Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.34% 
+YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 48 mins      ██████████████░░░░░░░░░░░   58.06% 
-Claude Code              5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.11% 
-VS Code                  2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+IntelliJ IDEA            8 hrs 29 mins       ██████████████░░░░░░░░░░░   57.33% 
+Claude Code              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97% 
+VS Code                  2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
+Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
 💻 Operating System: 
-Mac                      18 hrs 36 mins      █████████████████████████   100.0%
+Mac                      14 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026
+ Last Updated on 25/07/2026
 <!--END_SECTION:waka-->
  
  
