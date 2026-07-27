@@ -69,13 +69,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       171 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
+Monday       172 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
 Tuesday      146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
+Wednesday    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
 Thursday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.93% 
-Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
+Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
 Saturday     95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-Sunday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18%
+Sunday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.28%
 
 ```
 
@@ -86,20 +86,20 @@ Sunday       186 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     7 hrs 1 min         ███████████░░░░░░░░░░░░░░   47.43% 
-Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.34% 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
+Java                     7 hrs 1 min         ███████████░░░░░░░░░░░░░░   46.26% 
+Other                    2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
+Markdown                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 29 mins       ██████████████░░░░░░░░░░░   57.33% 
-Claude Code              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-VS Code                  2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
-Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+IntelliJ IDEA            8 hrs 29 mins       ██████████████░░░░░░░░░░░   55.93% 
+Claude Code              3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   22.41% 
+VS Code                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
+Codex CLI                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
 
 💻 Operating System: 
-Mac                      14 hrs 48 mins      █████████████████████████   100.0%
+Mac                      15 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026
+ Last Updated on 27/07/2026
 <!--END_SECTION:waka-->
  
  
