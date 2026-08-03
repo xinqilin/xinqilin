@@ -74,8 +74,8 @@ Tuesday      147 commits    ███░░░░░░░░░░░░░░�
 Wednesday    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
 Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
 Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Saturday     95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-Sunday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18%
+Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
+Sunday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.28%
 
 ```
 
@@ -86,20 +86,20 @@ Sunday       186 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     7 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.91% 
-YAML                     6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.57% 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-Groovy                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
+Java                     7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   38.06% 
+YAML                     6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.19% 
+Markdown                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
+Groovy                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.15% 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 21 mins      █████████████░░░░░░░░░░░░   51.8% 
-Claude Code              7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   38.64% 
-VS Code                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Codex CLI                41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
+IntelliJ IDEA            10 hrs 14 mins      █████████████░░░░░░░░░░░░   52.21% 
+Claude Code              7 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   38.01% 
+VS Code                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.28% 
+Codex CLI                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 
 💻 Operating System: 
-Mac                      19 hrs 59 mins      █████████████████████████   100.0%
+Mac                      19 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026
+ Last Updated on 03/08/2026
 <!--END_SECTION:waka-->
  
  
