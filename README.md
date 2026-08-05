@@ -60,22 +60,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-🌆 Daytime    273 commits    ███████░░░░░░░░░░░░░░░░░░   28.14% 
-🌃 Evening    366 commits    █████████░░░░░░░░░░░░░░░░   37.73% 
-🌙 Night      190 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59%
+🌞 Morning    142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+🌆 Daytime    273 commits    ███████░░░░░░░░░░░░░░░░░░   28.12% 
+🌃 Evening    366 commits    █████████░░░░░░░░░░░░░░░░   37.69% 
+🌙 Night      190 commits    █████░░░░░░░░░░░░░░░░░░░░   19.57%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       172 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Tuesday      147 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Wednesday    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
-Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-Sunday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18%
+Monday       171 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
+Tuesday      148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
+Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
+Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Sunday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.16%
 
 ```
 
@@ -86,19 +86,19 @@ Sunday       186 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   38.96% 
-YAML                     4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
-Groovy                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
-SQL                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
+Java                     10 hrs 47 mins      ████████████░░░░░░░░░░░░░   48.92% 
+YAML                     3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
+Markdown                 2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
+SQL                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
+Groovy                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.62%
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 3 mins        ███████████░░░░░░░░░░░░░░   46.63% 
-Claude Code              8 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.93% 
-VS Code                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.44%
+Claude Code              10 hrs 32 mins      ████████████░░░░░░░░░░░░░   47.78% 
+IntelliJ IDEA            10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   45.8% 
+VS Code                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 💻 Operating System: 
-Mac                      19 hrs 24 mins      █████████████████████████   100.0%
+Mac                      22 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +115,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026
+ Last Updated on 05/08/2026
 <!--END_SECTION:waka-->
  
  
