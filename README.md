@@ -73,9 +73,9 @@ Monday       168 commits    ████░░░░░░░░░░░░░�
 Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
 Wednesday    146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
 Thursday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
-Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+Friday       120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.51% 
 Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Sunday       181 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.87%
+Sunday       182 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.98%
 
 ```
 
@@ -86,19 +86,19 @@ Sunday       181 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     15 hrs 40 mins      ███████████████░░░░░░░░░░   60.97% 
-Markdown                 4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-SQL                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51% 
-Other                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
+Java                     15 hrs 37 mins      ███████████████░░░░░░░░░░   59.74% 
+Markdown                 4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+SQL                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
+Text                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Other                    45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
 
 🔥 Editors: 
-Claude Code              12 hrs 4 mins       ███████████░░░░░░░░░░░░░░   46.96% 
-IntelliJ IDEA            11 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   43.35% 
-VS Code                  2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+Claude Code              12 hrs 17 mins      ███████████░░░░░░░░░░░░░░   47.03% 
+IntelliJ IDEA            11 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   42.3% 
+VS Code                  2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.67%
 
 💻 Operating System: 
-Mac                      25 hrs 42 mins      █████████████████████████   100.0%
+Mac                      26 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +115,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026
+ Last Updated on 17/08/2026
 <!--END_SECTION:waka-->
  
  
