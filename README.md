@@ -60,22 +60,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-🌆 Daytime    286 commits    ███████░░░░░░░░░░░░░░░░░░   29.82% 
-🌃 Evening    341 commits    █████████░░░░░░░░░░░░░░░░   35.56% 
-🌙 Night      187 commits    █████░░░░░░░░░░░░░░░░░░░░   19.5%
+🌞 Morning    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+🌆 Daytime    286 commits    ███████░░░░░░░░░░░░░░░░░░   29.67% 
+🌃 Evening    346 commits    █████████░░░░░░░░░░░░░░░░   35.89% 
+🌙 Night      187 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.4%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Thursday     109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
-Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Saturday     94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Sunday       181 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.87%
+Monday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
+Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+Thursday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+Friday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Saturday     99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Sunday       182 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.88%
 
 ```
 
@@ -86,36 +86,36 @@ Sunday       181 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     12 hrs 16 mins      ██████████████░░░░░░░░░░░   57.01% 
-Markdown                 2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
-YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
-Text                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+Java                     11 hrs 57 mins      █████████████░░░░░░░░░░░░   55.16% 
+Markdown                 2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
+Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
+YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
+Text                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
 
 🔥 Editors: 
-Claude Code              12 hrs              ██████████████░░░░░░░░░░░   55.74% 
-IntelliJ IDEA            7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.39% 
-VS Code                  2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.86%
+Claude Code              12 hrs 10 mins      ██████████████░░░░░░░░░░░   56.13% 
+IntelliJ IDEA            7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.47% 
+VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.41%
 
 💻 Operating System: 
-Mac                      21 hrs 32 mins      █████████████████████████   100.0%
+Mac                      21 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     35 repos            ████████████░░░░░░░░░░░░░   49.3% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
+Java                     36 repos            ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 22/08/2026
+ Last Updated on 23/08/2026
 <!--END_SECTION:waka-->
  
  
