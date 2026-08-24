@@ -14,14 +14,13 @@
 - 🖥️ Senior Backend Engineer with **7+ years** of experience in Java / Kotlin, based in Taipei City, Taiwan.
 - ⚙️ Skilled in Java, Kotlin, JavaScript/TypeScript, Spring Boot and Python; also interested in Golang.
 - 📱 About 8 months of Android development experience.
-- 🎨 2+ years of frontend exposure with React and Vue.
+- 🎨 3+ years of frontend exposure with React and Vue.
 - 🌱 Currently deepening my **SRE & Cloud Reliability** skills — see below.
 - 👋 Pleased to meet you!
 
 ## 🚀 Highlights
 
 - Engineered and maintained enterprise-scale Billing & Payment systems, serving as first line of support for production issues.
-- Led the on-premises → AWS infrastructure migration, significantly reducing maintenance incidents.
 - Built automated end-to-end test pipelines, cutting a 30+ minute manual QA process down to minutes.
 - Delivered internal tech talks to 200+ engineers and mentored new hires through code reviews.
 
@@ -47,9 +46,6 @@ Backend → SRE, one step at a time. Currently sharpening:
 <img src="https://skillicons.dev/icons?i=go,aws,docker,kubernetes,prometheus,grafana,linux" />
 </p>
 
-## ✍️ Writing
-
-- 📝 [Bill.Lin's Notes](https://bill-lin.dev/) — my personal blog
 
 ## 📊 GitHub Stats
 
