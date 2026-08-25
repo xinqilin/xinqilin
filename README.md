@@ -65,22 +65,22 @@ Backend → SRE, one step at a time. Currently sharpening:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-🌆 Daytime    286 commits    ███████░░░░░░░░░░░░░░░░░░   29.61% 
-🌃 Evening    348 commits    █████████░░░░░░░░░░░░░░░░   36.02% 
-🌙 Night      187 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.36%
+🌞 Morning    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+🌆 Daytime    286 commits    ███████░░░░░░░░░░░░░░░░░░   29.64% 
+🌃 Evening    347 commits    █████████░░░░░░░░░░░░░░░░   35.96% 
+🌙 Night      187 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.38%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       169 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.49% 
-Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-Thursday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Friday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Saturday     99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-Sunday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.25%
+Monday       172 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
+Wednesday    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
+Thursday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Friday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
+Saturday     98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Sunday       185 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.17%
 
 ```
 
@@ -91,19 +91,19 @@ Sunday       186 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     13 hrs 39 mins      ██████████████░░░░░░░░░░░   57.99% 
-Markdown                 2 hrs 41 mins         ██░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Other                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-HTML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.21%
+Java                     10 hrs 38 mins      █████████████░░░░░░░░░░░░   51.5% 
+Markdown                 2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
+Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.61% 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 
-📥 Editors: 
-Claude Code              13 hrs 50 mins      ██████████████░░░░░░░░░░   58.79% 
-IntelliJ IDEA            7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░░   32.07% 
-VS Code                  2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░   9.14%
+🔥 Editors: 
+Claude Code              12 hrs 59 mins      ███████████████░░░░░░░░░░   62.91% 
+IntelliJ IDEA            5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.24% 
+VS Code                  1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.86%
 
 💻 Operating System: 
-Mac                      23 hrs 32 mins      ████████████████████████   100.0%
+Mac                      20 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -111,14 +111,14 @@ Mac                      23 hrs 32 mins      ███████████�
 
 ```text
 Java                     36 repos            ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 24/08/2026
+ Last Updated on 25/08/2026
 <!--END_SECTION:waka-->
