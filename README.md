@@ -76,11 +76,11 @@ Backend → SRE, one step at a time. Currently sharpening:
 ```text
 Monday       170 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
 Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Wednesday    146 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
+Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
 Thursday     109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
 Friday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
-Saturday     96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Sunday       184 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.05%
+Saturday     98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Sunday       183 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.94%
 
 ```
 
@@ -91,19 +91,19 @@ Sunday       184 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 7 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.22% 
-Java                     7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   34.1% 
-YAML                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-HTML                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
+Markdown                 8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.21% 
+Java                     5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99% 
+HTML                     4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52% 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+Python                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
 
 🔥 Editors: 
-Claude Code              8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.26% 
-IntelliJ IDEA            6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.91% 
-VS Code                  5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   26.83%
+Claude Code              11 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.72% 
+VS Code                  7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.62% 
+IntelliJ IDEA            3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.66%
 
 💻 Operating System: 
-Mac                      21 hrs 47 mins      █████████████████████████   100.0%
+Mac                      22 hrs 21 mins      █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +120,5 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026
+ Last Updated on 12/09/2026
 <!--END_SECTION:waka-->
