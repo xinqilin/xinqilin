@@ -65,22 +65,22 @@ Backend → SRE, one step at a time. Currently sharpening:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    148 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-🌆 Daytime    287 commits    ███████░░░░░░░░░░░░░░░░░░   29.71% 
-🌃 Evening    346 commits    █████████░░░░░░░░░░░░░░░░   35.82% 
-🌙 Night      185 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.15%
+🌞 Morning    166 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+🌆 Daytime    302 commits    ███████░░░░░░░░░░░░░░░░░░   30.05% 
+🌃 Evening    343 commits    ████████░░░░░░░░░░░░░░░░░   34.13% 
+🌙 Night      194 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.3%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       170 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
-Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
-Wednesday    145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-Thursday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-Friday       118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
-Saturday     99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-Sunday       185 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.15%
+Monday       170 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
+Tuesday      143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
+Wednesday    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Thursday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+Friday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Saturday     97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
+Sunday       185 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41%
 
 ```
 
@@ -91,34 +91,34 @@ Sunday       185 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.77% 
-Java                     5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82% 
-HTML                     4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.31% 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-Python                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38%
+Java                     9 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.88% 
+Markdown                 5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51% 
+HTML                     3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Other                    3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
+Python                   47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15%
 
 🔥 Editors: 
-Claude Code              11 hrs 20 mins      ████████████░░░░░░░░░░░░░   50.17% 
-VS Code                  7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.34% 
-IntelliJ IDEA            3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49%
+Claude Code              17 hrs 38 mins      █████████████████░░░░░░░░   70.58% 
+IntelliJ IDEA            4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69% 
+VS Code                  2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
 
 💻 Operating System: 
-Mac                      22 hrs 36 mins      █████████████████████████   100.0%
+Mac                      24 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     36 repos            ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Java                     36 repos            ████████████░░░░░░░░░░░░░   48.65% 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 
 
 
- Last Updated on 14/09/2026
+ Last Updated on 18/09/2026
 <!--END_SECTION:waka-->
