@@ -65,22 +65,22 @@ Backend → SRE, one step at a time. Currently sharpening:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    187 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
-🌆 Daytime    304 commits    ███████░░░░░░░░░░░░░░░░░░   29.17% 
-🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   33.3% 
-🌙 Night      204 commits    █████░░░░░░░░░░░░░░░░░░░░   19.58%
+🌞 Morning    197 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
+🌆 Daytime    310 commits    ███████░░░░░░░░░░░░░░░░░░   29.36% 
+🌃 Evening    346 commits    ████████░░░░░░░░░░░░░░░░░   32.77% 
+🌙 Night      203 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.22%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       202 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.39% 
-Tuesday      142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
-Wednesday    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
-Thursday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-Friday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Saturday     98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.4% 
-Sunday       190 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.23%
+Monday       201 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
+Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+Wednesday    151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
+Thursday     112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Friday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+Saturday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
+Sunday       188 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8%
 
 ```
 
@@ -91,19 +91,19 @@ Sunday       190 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Java                     8 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.59% 
-Markdown                 4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.14% 
-Other                    3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-HTML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
+Markdown                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   22.57% 
+Java                     3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.9% 
+HTML                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.02%
 
 🔥 Editors: 
-Claude Code              14 hrs 7 mins       █████████████████░░░░░░░░   70.51% 
-IntelliJ IDEA            4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66% 
-VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
+Claude Code              12 hrs 6 mins       ████████████████████░░░░░   80.68% 
+IntelliJ IDEA            2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 💻 Operating System: 
-Mac                      20 hrs 1 min        █████████████████████████   100.0%
+Mac                      15 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -120,5 +120,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026
+ Last Updated on 26/09/2026
 <!--END_SECTION:waka-->
