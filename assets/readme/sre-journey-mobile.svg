@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="596" viewBox="0 0 400 596" role="img" aria-labelledby="t d">
+  <title id="t">Backend + SRE: from commit to reliable production</title>
+  <desc id="d">A change flows through Backend (Java, Kotlin), Docker, Kubernetes, Prometheus, Grafana and SLOs / error budgets, running on AWS and Linux. Status: operational, skills trending up.</desc>
+  <style><![CDATA[
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .panel { fill: #1F2937; stroke: #FFFFFF; stroke-opacity: .08; }
+    .title { font-size: 15px; font-weight: 600; fill: #F3F4F6; }
+    .muted { fill: #9CA3AF; }
+    .label { font-size: 14px; font-weight: 600; fill: #E5E7EB; }
+    .sub { font-size: 11.5px; fill: #9CA3AF; }
+    .pill { fill: #73BF69; fill-opacity: .12; stroke: #73BF69; stroke-opacity: .45; }
+    .pill-text { font-size: 11px; font-weight: 700; fill: #73BF69; letter-spacing: .6px; }
+    .ok { fill: #73BF69; }
+    .track { stroke: #374151; stroke-width: 3; stroke-linecap: round; }
+    .progress { stroke: url(#flow); stroke-width: 3; stroke-linecap: round; fill: none; stroke-dasharray: 320 320; stroke-dashoffset: 0; }
+    .node { fill: #111827; stroke: currentColor; stroke-width: 2; }
+    .halo { fill: currentColor; opacity: .07; }
+    .icon { fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .icon .solid { fill: currentColor; stroke: none; }
+    .ping { fill: none; stroke: currentColor; stroke-width: 2; opacity: 0; transform-box: fill-box; transform-origin: center; }
+    .packet { opacity: 0; }
+    .packet .core { fill: #F9FAFB; }
+    .packet .glow { fill: #8AB8FF; opacity: .35; }
+    .note rect { fill: #B877D9; fill-opacity: .16; stroke: #B877D9; stroke-opacity: .5; }
+    .note text { font-size: 11.5px; font-weight: 700; fill: #D7B6EC; text-anchor: middle; }
+    .band { fill: #111827; stroke: #FFFFFF; stroke-opacity: .06; }
+    .band-text { font-size: 11.5px; text-anchor: middle; }
+    .infra { fill: #E5E7EB; font-weight: 700; }
+    .cmd { font-size: 12px; fill: #9CA3AF; }
+    .prompt { fill: #73BF69; }
+    .waiting { font-size: 12px; fill: #8AB8FF; opacity: 0; }
+    .done { font-size: 12px; fill: #73BF69; }
+    .trend { fill: none; stroke: #73BF69; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 150 150; }
+    .trend-area { fill: url(#trendFill); }
+    .trend-text { font-size: 12px; font-weight: 700; fill: #73BF69; text-anchor: end; }
+    .n0 { color: #73BF69; } .ping.n0 { animation-delay: 0.0s; }
+    .n1 { color: #5794F2; } .ping.n1 { animation-delay: 1.68s; }
+    .n2 { color: #8AB8FF; } .ping.n2 { animation-delay: 3.36s; }
+    .n3 { color: #FF9830; } .ping.n3 { animation-delay: 5.04s; }
+    .n4 { color: #FADE2A; } .ping.n4 { animation-delay: 6.72s; }
+    .n5 { color: #B877D9; } .ping.n5 { animation-delay: 8.4s; }
+    .packet { animation: travel 12s ease-in-out infinite; }
+    .progress { animation: fill 12s ease-in-out infinite; }
+    .ping { animation: ping 12s ease-out infinite; }
+    .note { opacity: 1; animation: note 12s ease-in-out infinite; }
+    .waiting { animation: waiting 12s linear infinite; }
+    .done { animation: done 12s linear infinite; }
+    .live { animation: blink 1.6s ease-in-out infinite; }
+    .trend { animation: draw 2.2s .3s ease-out both; }
+    .trend-area { animation: appear 2.2s .3s ease-out both; }
+    .tip { transform-box: fill-box; transform-origin: center; animation: beat 2s ease-in-out infinite; }
+    @keyframes travel {
+      0% { transform: translateY(0px); opacity: 0; }
+      2% { opacity: 1; }
+      6% { transform: translateY(0px); }
+      14% { transform: translateY(64px); }
+      20% { transform: translateY(64px); }
+      28% { transform: translateY(128px); }
+      34% { transform: translateY(128px); }
+      42% { transform: translateY(192px); }
+      48% { transform: translateY(192px); }
+      56% { transform: translateY(256px); }
+      62% { transform: translateY(256px); }
+      70% { transform: translateY(320px); }
+      88% { transform: translateY(320px); opacity: 1; }
+      94%, 100% { transform: translateY(320px); opacity: 0; }
+    }
+    @keyframes fill {
+      0%, 6% { stroke-dashoffset: 320; opacity: 1; }
+      14%, 20% { stroke-dashoffset: 256; }
+      28%, 34% { stroke-dashoffset: 192; }
+      42%, 48% { stroke-dashoffset: 128; }
+      56%, 62% { stroke-dashoffset: 64; }
+      70%, 88% { stroke-dashoffset: 0; opacity: 1; }
+      94% { stroke-dashoffset: 0; opacity: 0; }
+      100% { stroke-dashoffset: 320; opacity: 0; }
+    }
+    @keyframes ping { 0% { opacity: .9; transform: scale(1); } 7% { opacity: 0; transform: scale(1.75); } 100% { opacity: 0; transform: scale(1.75); } }
+    @keyframes note { 0%, 70% { opacity: 0; transform: translateX(-4px); } 74%, 88% { opacity: 1; transform: translateX(0); } 94%, 100% { opacity: 0; transform: translateX(0); } }
+    @keyframes waiting { 0%, 69.9% { opacity: 1; } 70%, 100% { opacity: 0; } }
+    @keyframes done { 0%, 69.9% { opacity: 0; } 70%, 100% { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+    @keyframes draw { from { stroke-dashoffset: 150; } to { stroke-dashoffset: 0; } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes beat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.6); } }
+    @media (prefers-reduced-motion: reduce) {
+      .packet, .progress, .ping, .note, .waiting, .done, .live, .trend, .trend-area, .tip { animation: none; }
+    }
+  ]]></style>
+  <defs>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="112" x2="0" y2="432"><stop offset="0.00" stop-color="#73BF69"/><stop offset="0.20" stop-color="#5794F2"/><stop offset="0.40" stop-color="#8AB8FF"/><stop offset="0.60" stop-color="#FF9830"/><stop offset="0.80" stop-color="#FADE2A"/><stop offset="1.00" stop-color="#B877D9"/></linearGradient>
+    <linearGradient id="trendFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#73BF69" stop-opacity=".28"/><stop offset="1" stop-color="#73BF69" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect class="panel" x="0.5" y="0.5" width="399" height="595" rx="10"/>
+  <text class="title" x="18" y="32">From commit to reliable production</text>
+  <g transform="translate(18 46)">
+    <rect class="pill" width="124" height="23" rx="11.5"/>
+    <circle class="ok live" cx="14" cy="11.5" r="4"/>
+    <text class="pill-text mono" x="25" y="15.5">OPERATIONAL</text>
+  </g>
+  <line class="track" x1="46" y1="112" x2="46" y2="432"/>
+  <line class="progress" x1="46" y1="112" x2="46" y2="432"/>
+  
+  <g class="n0" transform="translate(46 112)">
+    <circle class="ping n0" r="21"/><circle class="halo" r="27"/><circle class="node" r="21"/>
+    <g class="icon" transform="scale(.9)"><path d="M-6 -6 L-11 0 L-6 6 M6 -6 L11 0 L6 6 M2.5 -8 L-2.5 8"/></g>
+  </g>
+  <text class="label" x="84" y="110">Backend</text>
+  <text class="sub mono" x="84" y="127">Java · Kotlin</text>
+  <g class="n1" transform="translate(46 176)">
+    <circle class="ping n1" r="21"/><circle class="halo" r="27"/><circle class="node" r="21"/>
+    <g class="icon" transform="scale(.9)"><path d="M0 -10 L9 -5 L9 5 L0 10 L-9 5 L-9 -5 Z M-9 -5 L0 0 L9 -5 M0 0 L0 10"/></g>
+  </g>
+  <text class="label" x="84" y="174">Docker</text>
+  <text class="sub mono" x="84" y="191">containers</text>
+  <g class="n2" transform="translate(46 240)">
+    <circle class="ping n2" r="21"/><circle class="halo" r="27"/><circle class="node" r="21"/>
+    <g class="icon" transform="scale(.9)"><circle r="7"/><circle r="2.2" class="solid"/><path d="M0 -11 V-2.2 M0 2.2 V11 M-11 0 H-2.2 M2.2 0 H11 M-7.8 -7.8 L-1.6 -1.6 M1.6 1.6 L7.8 7.8 M7.8 -7.8 L1.6 -1.6 M-1.6 1.6 L-7.8 7.8"/></g>
+  </g>
+  <text class="label" x="84" y="238">Kubernetes</text>
+  <text class="sub mono" x="84" y="255">orchestration</text>
+  <g class="n3" transform="translate(46 304)">
+    <circle class="ping n3" r="21"/><circle class="halo" r="27"/><circle class="node" r="21"/>
+    <g class="icon" transform="scale(.9)"><path d="M-12 2 H-6.5 L-3.5 -7 L0.5 9 L3.5 -2 L5.5 2 H12"/></g>
+  </g>
+  <text class="label" x="84" y="302">Prometheus</text>
+  <text class="sub mono" x="84" y="319">metrics</text>
+  <g class="n4" transform="translate(46 368)">
+    <circle class="ping n4" r="21"/><circle class="halo" r="27"/><circle class="node" r="21"/>
+    <g class="icon" transform="scale(.9)"><path d="M-10 5 A10 10 0 1 1 10 5"/><path d="M0 4 L5.5 -4.5"/><circle cy="4" r="1.9" class="solid"/></g>
+  </g>
+  <text class="label" x="84" y="366">Grafana</text>
+  <text class="sub mono" x="84" y="383">dashboards</text>
+  <g class="n5" transform="translate(46 432)">
+    <circle class="ping n5" r="21"/><circle class="halo" r="27"/><circle class="node" r="21"/>
+    <g class="icon" transform="scale(.9)"><path d="M0 -11 L9 -7.5 V0.5 C9 6.5 5 9.8 0 12 C-5 9.8 -9 6.5 -9 0.5 V-7.5 Z"/><path d="M-4 0.5 L-1 3.5 L4.5 -3"/></g>
+  </g>
+  <text class="label" x="84" y="430">SLO</text>
+  <text class="sub mono" x="84" y="447">error budgets</text>
+  <g transform="translate(46 112)"><g class="packet"><circle class="glow" r="10"/><circle class="core" r="4.5"/></g></g>
+  <g transform="translate(338 432)"><g class="note">
+    <rect x="-42" y="-12" width="84" height="24" rx="6"/><text x="0" y="4">SLO met ✓</text>
+  </g></g>
+  <rect class="band" x="18" y="472" width="364" height="26" rx="13"/>
+  <text class="band-text mono" x="200.0" y="489"><tspan class="muted">runs on</tspan><tspan class="infra" dx="10">AWS</tspan><tspan class="muted" dx="8">·</tspan><tspan class="infra" dx="8">Linux</tspan></text>
+  <text class="cmd mono" x="18" y="526"><tspan class="prompt">$</tspan> kubectl rollout status deploy/bill</text>
+  <text class="waiting mono" x="18" y="546">waiting for rollout to finish…</text>
+  <text class="done mono" x="18" y="546">✓ successfully rolled out</text>
+  <path class="trend-area" d="M18 574 L34 571 L48 573 L64 566 L80 568 L96 560 L112 561 L128 554 L128 576 L18 576 Z"/>
+  <path class="trend" d="M18 574 L34 571 L48 573 L64 566 L80 568 L96 560 L112 561 L128 554"/>
+  <circle class="ok tip" cx="128" cy="554" r="2.6"/>
+  <text class="trend-text mono" x="382" y="568">▲ leveling up</text>
+</svg>

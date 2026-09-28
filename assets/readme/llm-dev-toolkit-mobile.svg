@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="260" viewBox="0 0 200 260" role="img" aria-labelledby="t d">
+  <title id="t">claude-dev-toolkit-marketplace</title>
+  <desc id="d">Claude Code plugin marketplace with 4 plugins for Java and Spring Boot teams: /code-review, /review-pr, /review-test, /design-solution, /optimize-query.</desc>
+  <style><![CDATA[
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .panel { fill: #1F2937; stroke: #FFFFFF; stroke-opacity: .08; }
+    .name { font-size: 14px; font-weight: 700; fill: #F3F4F6; }
+    .desc { font-size: 12px; fill: #9CA3AF; }
+    .chip { font-size: 9.5px; font-weight: 700; letter-spacing: .5px; }
+    .repo { fill: none; stroke: #9CA3AF; stroke-width: 1.5; stroke-linejoin: round; stroke-linecap: round; }
+    .term { fill: #111827; stroke: #FFFFFF; stroke-opacity: .06; }
+    .t { font-size: 11px; }
+    .prompt { fill: #B877D9; font-weight: 700; }
+    .cmd { fill: #8AB8FF; font-weight: 700; }
+    .ok { fill: #73BF69; font-weight: 700; }
+    .line { opacity: 0; animation: line 10s ease-out infinite; }
+    @keyframes line { 0% { opacity: 0; transform: translateX(-4px); } 3% { opacity: 1; transform: translateX(0); } 86% { opacity: 1; transform: translateX(0); } 90%, 100% { opacity: 0; transform: translateX(0); } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; opacity: 1; } }
+  ]]></style>
+  <rect class="panel" x="0.5" y="0.5" width="199" height="259" rx="10"/>
+  <g transform="translate(18 24)"><path class="repo" d="M-6 -7 H5 V7 H-4 A2 2 0 0 1 -6 5 Z M-6 5 A2 2 0 0 1 -4 3 H5"/></g>
+  <text class="name" x="30" y="29">claude-dev-toolkit-</text><text class="name" x="30" y="46">marketplace</text>
+  <g transform="translate(12 57)">
+    <rect width="76" height="19" rx="9.5" fill="#5794F2" fill-opacity=".12" stroke="#5794F2" stroke-opacity=".45"/>
+    <text class="chip mono" x="38.0" y="13" fill="#5794F2" text-anchor="middle">4 PLUGINS</text>
+  </g>
+  <text class="desc" x="12" y="96">Claude Code plugins for</text>
+  <text class="desc" x="12" y="112">Java / Spring Boot teams</text>
+  <rect class="term" x="10" y="126" width="180" height="122" rx="8"/>
+  <g class="line" style="animation-delay:0.35s"><text class="t mono" x="20" y="150"><tspan class="prompt">›</tspan> <tspan class="cmd">/code-review</tspan></text><text class="t mono ok" x="182" y="150" text-anchor="end">✓</text></g><g class="line" style="animation-delay:0.85s"><text class="t mono" x="20" y="170"><tspan class="prompt">›</tspan> <tspan class="cmd">/review-pr</tspan></text><text class="t mono ok" x="182" y="170" text-anchor="end">✓</text></g><g class="line" style="animation-delay:1.35s"><text class="t mono" x="20" y="190"><tspan class="prompt">›</tspan> <tspan class="cmd">/review-test</tspan></text><text class="t mono ok" x="182" y="190" text-anchor="end">✓</text></g><g class="line" style="animation-delay:1.85s"><text class="t mono" x="20" y="210"><tspan class="prompt">›</tspan> <tspan class="cmd">/design-solution</tspan></text><text class="t mono ok" x="182" y="210" text-anchor="end">✓</text></g><g class="line" style="animation-delay:2.35s"><text class="t mono" x="20" y="230"><tspan class="prompt">›</tspan> <tspan class="cmd">/optimize-query</tspan></text><text class="t mono ok" x="182" y="230" text-anchor="end">✓</text></g>
+</svg>
