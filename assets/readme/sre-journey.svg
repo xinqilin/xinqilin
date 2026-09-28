@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="266" viewBox="0 0 850 266" role="img" aria-labelledby="t d">
+  <title id="t">Backend + SRE: from commit to reliable production</title>
+  <desc id="d">A change flows through Backend (Java, Kotlin), Docker, Kubernetes, Prometheus, Grafana and SLOs / error budgets, running on AWS and Linux. Status: operational, skills trending up.</desc>
+  <!-- Edit tip: stage names / sub-labels are the <text class="label"> and <text class="sub"> elements below. -->
+  <style><![CDATA[
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .panel { fill: #1F2937; stroke: #FFFFFF; stroke-opacity: .08; }
+    .title { font-size: 15px; font-weight: 600; fill: #F3F4F6; }
+    .muted { fill: #9CA3AF; }
+    .label { font-size: 13px; font-weight: 600; fill: #E5E7EB; text-anchor: middle; }
+    .sub { font-size: 11px; fill: #9CA3AF; text-anchor: middle; }
+    .pill { fill: #73BF69; fill-opacity: .12; stroke: #73BF69; stroke-opacity: .45; }
+    .pill-text { font-size: 11px; font-weight: 700; fill: #73BF69; letter-spacing: .6px; }
+    .ok { fill: #73BF69; }
+    .track { stroke: #374151; stroke-width: 3; stroke-linecap: round; }
+    .progress { stroke: url(#flow); stroke-width: 3; stroke-linecap: round; fill: none;
+                 stroke-dasharray: 700 700; stroke-dashoffset: 0; }
+    .node { fill: #111827; stroke: currentColor; stroke-width: 2; }
+    .halo { fill: currentColor; opacity: .07; }
+    .icon { fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .icon .solid { fill: currentColor; stroke: none; }
+    .ping { fill: none; stroke: currentColor; stroke-width: 2; opacity: 0;
+             transform-box: fill-box; transform-origin: center; }
+    .packet { opacity: 0; }
+    .packet .core { fill: #F9FAFB; }
+    .packet .glow { fill: #8AB8FF; opacity: .35; }
+    .note rect { fill: #B877D9; fill-opacity: .16; stroke: #B877D9; stroke-opacity: .5; }
+    .note text { font-size: 11px; font-weight: 700; fill: #D7B6EC; text-anchor: middle; }
+    .cmd { font-size: 11.5px; fill: #9CA3AF; }
+    .prompt { fill: #73BF69; }
+    .waiting { font-size: 11.5px; fill: #8AB8FF; opacity: 0; }
+    .done { font-size: 11.5px; fill: #73BF69; }
+    .trend { fill: none; stroke: #73BF69; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .trend-area { fill: url(#trendFill); }
+    .trend-text { font-size: 11.5px; font-weight: 700; fill: #73BF69; text-anchor: end; }
+    .band { fill: #111827; stroke: #FFFFFF; stroke-opacity: .06; }
+    .band-text { font-size: 11px; text-anchor: middle; }
+    .infra { fill: #E5E7EB; font-weight: 700; }
+    .n0 { color: #73BF69; } .ping.n0 { animation-delay: 0.0s; }
+    .n1 { color: #5794F2; } .ping.n1 { animation-delay: 1.68s; }
+    .n2 { color: #8AB8FF; } .ping.n2 { animation-delay: 3.36s; }
+    .n3 { color: #FF9830; } .ping.n3 { animation-delay: 5.04s; }
+    .n4 { color: #FADE2A; } .ping.n4 { animation-delay: 6.72s; }
+    .n5 { color: #B877D9; } .ping.n5 { animation-delay: 8.4s; }
+
+    /* ---------- motion ---------- */
+    .packet { animation: travel 12s ease-in-out infinite; }
+    .progress { animation: fill 12s ease-in-out infinite; }
+    .ping { animation: ping 12s ease-out infinite; }
+    .note { opacity: 1; animation: note 12s ease-in-out infinite; }
+    .waiting { animation: waiting 12s linear infinite; }
+    .done { animation: done 12s linear infinite; }
+    .live { animation: blink 1.6s ease-in-out infinite; }
+    .trend { stroke-dasharray: 120 120; animation: draw 2.2s .3s ease-out both; }
+    .trend-area { animation: appear 2.2s .3s ease-out both; }
+    .tip { transform-box: fill-box; transform-origin: center; animation: beat 2s ease-in-out infinite; }
+
+    @keyframes travel {
+      0% { transform: translateX(0px); opacity: 0; }
+      2% { opacity: 1; }
+      6% { transform: translateX(0px); }
+      14% { transform: translateX(140px); }
+      20% { transform: translateX(140px); }
+      28% { transform: translateX(280px); }
+      34% { transform: translateX(280px); }
+      42% { transform: translateX(420px); }
+      48% { transform: translateX(420px); }
+      56% { transform: translateX(560px); }
+      62% { transform: translateX(560px); }
+      70% { transform: translateX(700px); }
+      88% { transform: translateX(700px); opacity: 1; }
+      94%, 100% { transform: translateX(700px); opacity: 0; }
+    }
+    @keyframes fill {
+      0%, 6% { stroke-dashoffset: 700; opacity: 1; }
+      14%, 20% { stroke-dashoffset: 560; }
+      28%, 34% { stroke-dashoffset: 420; }
+      42%, 48% { stroke-dashoffset: 280; }
+      56%, 62% { stroke-dashoffset: 140; }
+      70%, 88% { stroke-dashoffset: 0; opacity: 1; }
+      94% { stroke-dashoffset: 0; opacity: 0; }
+      100% { stroke-dashoffset: 700; opacity: 0; }
+    }
+    @keyframes ping {
+      0% { opacity: .9; transform: scale(1); }
+      7% { opacity: 0; transform: scale(1.75); }
+      100% { opacity: 0; transform: scale(1.75); }
+    }
+    @keyframes note {
+      0%, 70% { opacity: 0; transform: translateY(4px); }
+      74%, 88% { opacity: 1; transform: translateY(0); }
+      94%, 100% { opacity: 0; transform: translateY(0); }
+    }
+    @keyframes waiting {
+      0%, 69.9% { opacity: 1; }
+      70%, 100% { opacity: 0; }
+    }
+    @keyframes done {
+      0%, 69.9% { opacity: 0; }
+      70%, 100% { opacity: 1; }
+    }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+    @keyframes draw { from { stroke-dashoffset: 120; } to { stroke-dashoffset: 0; } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes beat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.6); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .packet, .progress, .ping, .note, .waiting, .done, .live, .trend, .trend-area, .tip { animation: none; }
+    }
+  ]]></style>
+
+  <defs>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="75" y1="0" x2="775" y2="0"><stop offset="0.00" stop-color="#73BF69"/><stop offset="0.20" stop-color="#5794F2"/><stop offset="0.40" stop-color="#8AB8FF"/><stop offset="0.60" stop-color="#FF9830"/><stop offset="0.80" stop-color="#FADE2A"/><stop offset="1.00" stop-color="#B877D9"/></linearGradient>
+    <linearGradient id="trendFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#73BF69" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#73BF69" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="panel" x="0.5" y="0.5" width="849" height="265" rx="10"/>
+
+  <!-- header -->
+  <text class="title" x="20" y="32">From commit to reliable production</text>
+  <g transform="translate(700 15)">
+    <rect class="pill" x="0" y="0" width="130" height="24" rx="12"/>
+    <circle class="ok live" cx="15" cy="12" r="4"/>
+    <text class="pill-text mono" x="26" y="16">OPERATIONAL</text>
+  </g>
+
+  <!-- pipeline -->
+  <line class="track" x1="75" y1="108" x2="775" y2="108"/>
+  <line class="progress" x1="75" y1="108" x2="775" y2="108"/>
+  
+  <!-- Backend -->
+  <g class="n0" transform="translate(75 108)">
+    <circle class="ping n0" r="24"/>
+    <circle class="halo" r="31"/>
+    <circle class="node" r="24"/>
+    <g class="icon"><path d="M-6 -6 L-11 0 L-6 6 M6 -6 L11 0 L6 6 M2.5 -8 L-2.5 8"/></g>
+  </g>
+  <text class="label" x="75" y="158">Backend</text>
+  <text class="sub mono" x="75" y="176">Java · Kotlin</text>
+  <!-- Docker -->
+  <g class="n1" transform="translate(215 108)">
+    <circle class="ping n1" r="24"/>
+    <circle class="halo" r="31"/>
+    <circle class="node" r="24"/>
+    <g class="icon"><path d="M0 -10 L9 -5 L9 5 L0 10 L-9 5 L-9 -5 Z M-9 -5 L0 0 L9 -5 M0 0 L0 10"/></g>
+  </g>
+  <text class="label" x="215" y="158">Docker</text>
+  <text class="sub mono" x="215" y="176">containers</text>
+  <!-- Kubernetes -->
+  <g class="n2" transform="translate(355 108)">
+    <circle class="ping n2" r="24"/>
+    <circle class="halo" r="31"/>
+    <circle class="node" r="24"/>
+    <g class="icon"><circle r="7"/><circle r="2.2" class="solid"/><path d="M0 -11 V-2.2 M0 2.2 V11 M-11 0 H-2.2 M2.2 0 H11 M-7.8 -7.8 L-1.6 -1.6 M1.6 1.6 L7.8 7.8 M7.8 -7.8 L1.6 -1.6 M-1.6 1.6 L-7.8 7.8"/></g>
+  </g>
+  <text class="label" x="355" y="158">Kubernetes</text>
+  <text class="sub mono" x="355" y="176">orchestration</text>
+  <!-- Prometheus -->
+  <g class="n3" transform="translate(495 108)">
+    <circle class="ping n3" r="24"/>
+    <circle class="halo" r="31"/>
+    <circle class="node" r="24"/>
+    <g class="icon"><path d="M-12 2 H-6.5 L-3.5 -7 L0.5 9 L3.5 -2 L5.5 2 H12"/></g>
+  </g>
+  <text class="label" x="495" y="158">Prometheus</text>
+  <text class="sub mono" x="495" y="176">metrics</text>
+  <!-- Grafana -->
+  <g class="n4" transform="translate(635 108)">
+    <circle class="ping n4" r="24"/>
+    <circle class="halo" r="31"/>
+    <circle class="node" r="24"/>
+    <g class="icon"><path d="M-10 5 A10 10 0 1 1 10 5"/><path d="M0 4 L5.5 -4.5"/><circle cy="4" r="1.9" class="solid"/></g>
+  </g>
+  <text class="label" x="635" y="158">Grafana</text>
+  <text class="sub mono" x="635" y="176">dashboards</text>
+  <!-- SLO -->
+  <g class="n5" transform="translate(775 108)">
+    <circle class="ping n5" r="24"/>
+    <circle class="halo" r="31"/>
+    <circle class="node" r="24"/>
+    <g class="icon"><path d="M0 -11 L9 -7.5 V0.5 C9 6.5 5 9.8 0 12 C-5 9.8 -9 6.5 -9 0.5 V-7.5 Z"/><path d="M-4 0.5 L-1 3.5 L4.5 -3"/></g>
+  </g>
+  <text class="label" x="775" y="158">SLO</text>
+  <text class="sub mono" x="775" y="176">error budgets</text>
+
+  <!-- platform layer the pipeline runs on -->
+  <rect class="band" x="20" y="194" width="810" height="24" rx="12"/>
+  <text class="band-text mono" x="425.0" y="210"><tspan class="muted">runs on</tspan><tspan class="infra" dx="10">AWS</tspan><tspan class="muted" dx="8">·</tspan><tspan class="infra" dx="8">Linux</tspan></text>
+
+  <!-- the change travelling through the stack -->
+  <!-- (outer <g> positions, inner <g> animates: a CSS transform would override the attribute) -->
+  <g transform="translate(75 108)">
+    <g class="packet"><circle class="glow" r="10"/><circle class="core" r="4.5"/></g>
+  </g>
+
+  <!-- annotation when the change reaches the end -->
+  <g transform="translate(775 62)">
+    <g class="note">
+      <rect x="-40" y="-11" width="80" height="22" rx="6"/>
+      <text x="0" y="4">SLO met ✓</text>
+    </g>
+  </g>
+
+  <!-- footer: rollout status + skill trend -->
+  <text class="cmd mono" x="20" y="246"><tspan class="prompt">$</tspan> kubectl rollout status deploy/bill</text>
+  <text class="waiting mono" x="290" y="246">waiting for rollout to finish…</text>
+  <text class="done mono" x="290" y="246">✓ successfully rolled out</text>
+
+  <path class="trend-area" d="M606 256 L606 250 L622 247 L636 249 L652 242 L668 244 L684 236 L700 237 L716 229 L724 226 L724 256 Z"/>
+  <path class="trend" d="M606 250 L622 247 L636 249 L652 242 L668 244 L684 236 L700 237 L716 229 L724 226"/>
+  <circle class="ok tip" cx="724" cy="226" r="2.6"/>
+  <text class="trend-text mono" x="830" y="246">▲ leveling up</text>
+</svg>

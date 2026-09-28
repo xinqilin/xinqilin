@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="170" viewBox="0 0 850 170" role="img" aria-labelledby="t d">
+  <title id="t">Highlights</title>
+  <desc id="d">Engineered and maintained enterprise-scale Billing and Payment systems as first line of production support. Built automated end-to-end test pipelines, cutting a 30+ minute manual QA process down to minutes. Delivered internal tech talks to 200+ engineers and mentored new hires through code reviews.</desc>
+  <style><![CDATA[
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .panel { fill: #1F2937; stroke: #FFFFFF; stroke-opacity: .08; }
+    .ptitle { font-size: 12.5px; font-weight: 600; fill: #D1D5DB; }
+    .chip { font-size: 10px; font-weight: 700; letter-spacing: .6px; }
+    .value { font-size: 34px; font-weight: 700; letter-spacing: -.5px; }
+    .unit { font-size: 14px; font-weight: 600; fill: #9CA3AF; }
+    .sub { font-size: 12px; fill: #9CA3AF; }
+    .axis { font-size: 10px; fill: #6B7280; }
+    .green { fill: #73BF69; } .orange { fill: #FF9830; } .blue { fill: #5794F2; }
+    .ecg { fill: none; stroke: #73BF69; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; }
+    .ecg-glow { fill: none; stroke: #73BF69; stroke-width: 6; stroke-opacity: .12; stroke-linejoin: round; }
+    .track { fill: #111827; }
+    .bar { fill: #73BF69; transform-box: fill-box; transform-origin: left center; transform: scaleX(.1); }
+    .rise { fill: none; stroke: #5794F2; stroke-width: 1.8; stroke-linejoin: round; stroke-linecap: round; stroke-dasharray: 260 260; }
+    .rise-area { fill: url(#riseFill); }
+    .strip { transform: translateY(-176px); }
+    .before { opacity: 0; }
+
+    /* ---------- motion ---------- */
+    .live { animation: blink 1.6s ease-in-out infinite; }
+    .beat { animation: scroll 1.8s linear infinite; }
+    .bar { animation: shrink 9s ease-in-out infinite; }
+    .before { animation: before 9s ease-in-out infinite; }
+    .after { animation: after 9s ease-in-out infinite; }
+    .strip { animation: roll 1.8s .5s cubic-bezier(.2,.8,.2,1) both; }
+    .rise { animation: draw 2.4s .5s ease-out both; }
+    .rise-area { animation: appear 1s 2.3s ease-out both; }
+    .tip { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-in-out infinite; }
+
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+    @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-90px); } }
+    @keyframes shrink {
+      0%, 30% { transform: scaleX(1); fill: #FF9830; }
+      42%, 90% { transform: scaleX(.1); fill: #73BF69; }
+      97%, 100% { transform: scaleX(1); fill: #FF9830; }
+    }
+    @keyframes before {
+      0%, 30% { opacity: 1; transform: translateY(0); }
+      38%, 92% { opacity: 0; transform: translateY(-8px); }
+      98%, 100% { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes after {
+      0%, 33% { opacity: 0; transform: translateY(8px); }
+      41%, 90% { opacity: 1; transform: translateY(0); }
+      96%, 100% { opacity: 0; transform: translateY(8px); }
+    }
+    @keyframes roll { from { transform: translateY(0); } to { transform: translateY(-176px); } }
+    @keyframes draw { from { stroke-dashoffset: 260; } to { stroke-dashoffset: 0; } }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.7); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .live, .beat, .bar, .before, .after, .strip, .rise, .rise-area, .tip { animation: none; }
+    }
+  ]]></style>
+
+  <defs>
+    <clipPath id="ecgClip"><rect x="1" y="116" width="269" height="50"/></clipPath>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".12" stop-color="#fff"/>
+      <stop offset=".88" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="ecgMask" maskUnits="userSpaceOnUse" x="0" y="110" width="271" height="60">
+      <rect x="0" y="110" width="271" height="60" fill="url(#fade)"/>
+    </mask>
+    <path id="ecgPath" d="M0 146 H30 L34 142 L38 146 H44 L47 150 L51 124 L55 156 L58 146 H66 Q71 138 76 146 H90 H120 L124 142 L128 146 H134 L137 150 L141 124 L145 156 L148 146 H156 Q161 138 166 146 H180 H210 L214 142 L218 146 H224 L227 150 L231 124 L235 156 L238 146 H246 Q251 138 256 146 H270 H300 L304 142 L308 146 H314 L317 150 L321 124 L325 156 L328 146 H336 Q341 138 346 146 H360 H390 L394 142 L398 146 H404 L407 150 L411 124 L415 156 L418 146 H426 Q431 138 436 146 H450 H480 L484 142 L488 146 H494 L497 150 L501 124 L505 156 L508 146 H516 Q521 138 526 146 H540 H570 L574 142 L578 146 H584 L587 150 L591 124 L595 156 L598 146 H606 Q611 138 616 146 H630"/>
+    <clipPath id="odo"><rect x="10" y="48" width="92" height="44"/></clipPath>
+    <linearGradient id="riseFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5794F2" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#5794F2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 1. Billing & Payment: first line of production support -->
+  <g transform="translate(0.5 0.5)">
+    <rect class="panel" width="271" height="169" rx="10"/>
+    <text class="ptitle" x="16" y="29">Billing &amp; Payment systems</text>
+    <g transform="translate(199 14)"><rect width="56" height="20" rx="10" fill="#73BF69" fill-opacity=".12" stroke="#73BF69" stroke-opacity=".45"/><circle class="live" cx="11" cy="10" r="3.5" fill="#73BF69"/><text class="chip mono" x="20" y="14" fill="#73BF69">PROD</text></g>
+    <text class="value green" x="16" y="82">1st line</text>
+    <text class="sub" x="16" y="104">production support · enterprise scale</text>
+    <g clip-path="url(#ecgClip)"><g mask="url(#ecgMask)">
+      <g class="beat"><use href="#ecgPath" class="ecg-glow"/><use href="#ecgPath" class="ecg"/></g>
+    </g></g>
+  </g>
+
+  <!-- 2. E2E test automation: 30+ min manual QA -> minutes -->
+  <g transform="translate(289.5 0.5)">
+    <rect class="panel" width="271" height="169" rx="10"/>
+    <text class="ptitle" x="16" y="29">E2E test automation</text>
+    <g transform="translate(213 14)"><rect width="42" height="20" rx="10" fill="#5794F2" fill-opacity=".12" stroke="#5794F2" stroke-opacity=".45"/><circle class="dot" cx="11" cy="10" r="3.5" fill="#5794F2"/><text class="chip mono" x="20" y="14" fill="#5794F2">CI</text></g>
+    <text class="value orange before" x="16" y="82">30+ min</text>
+    <text class="value green after" x="16" y="82">minutes</text>
+    <text class="sub" x="16" y="104">manual QA → automated pipeline</text>
+    <rect class="track" x="16" y="124" width="239" height="10" rx="5"/>
+    <rect class="bar" x="16" y="124" width="239" height="10" rx="5"/>
+    <text class="axis mono" x="16" y="152">0</text>
+    <text class="axis mono" x="255" y="152" text-anchor="end">30+ min</text>
+  </g>
+
+  <!-- 3. Tech talks & mentoring: 200+ engineers -->
+  <g transform="translate(578.5 0.5)">
+    <rect class="panel" width="271" height="169" rx="10"/>
+    <text class="ptitle" x="16" y="29">Tech talks &amp; mentoring</text>
+    <g transform="translate(199 14)"><rect width="56" height="20" rx="10" fill="#B877D9" fill-opacity=".12" stroke="#B877D9" stroke-opacity=".45"/><circle class="dot" cx="11" cy="10" r="3.5" fill="#B877D9"/><text class="chip mono" x="20" y="14" fill="#B877D9">TEAM</text></g>
+    <g clip-path="url(#odo)"><g class="strip">
+      <text class="value blue" x="16" y="82">0</text>
+      <text class="value blue" x="16" y="126">50</text>
+      <text class="value blue" x="16" y="170">100</text>
+      <text class="value blue" x="16" y="214">150</text>
+      <text class="value blue" x="16" y="258">200+</text>
+    </g></g>
+    <text class="unit" x="106" y="82">engineers</text>
+    <text class="sub" x="16" y="104">internal talks · mentored new hires</text>
+    <path class="rise-area" d="M16 158 L40 156 L62 157 L84 150 L106 152 L128 144 L150 145 L172 136 L194 138 L216 128 L238 126 L255 118 L255 162 L16 162 Z"/>
+    <path class="rise" d="M16 158 L40 156 L62 157 L84 150 L106 152 L128 144 L150 145 L172 136 L194 138 L216 128 L238 126 L255 118"/>
+    <circle class="tip blue" cx="255" cy="118" r="2.8"/>
+  </g>
+</svg>
