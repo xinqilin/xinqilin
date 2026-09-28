@@ -11,27 +11,27 @@
 
 ## 👋 About Me
 
-- 🖥️ Senior Backend Engineer with **7+ years** of experience in Java / Kotlin, based in Taipei City, Taiwan.
-- ⚙️ Skilled in Java, Kotlin, JavaScript/TypeScript, Spring Boot and Python; also interested in Golang.
-- 📱 About 8 months of Android development experience.
-- 🎨 3+ years of frontend exposure with React and Vue.
-- 🛡️ Hands-on **SRE & Cloud** skills — AWS, Docker, Kubernetes, Linux, Prometheus, Grafana — and always leveling up.
-- 🤖 Building **LLM-powered developer tooling** — Claude Code / Codex plugins, MCP servers, persistent dev memory — see below.
-- 👋 Pleased to meet you!
+- Senior Backend Engineer with **7+ years** of experience in Java / Kotlin, based in Taipei City, Taiwan.
+- Skilled in Java, Kotlin, JavaScript/TypeScript, Spring Boot and Python; also interested in Golang.
+- About 8 months of Android development experience.
+- 3+ years of frontend exposure with React and Vue.
+- Hands-on **SRE & Cloud** skills — AWS, Docker, Kubernetes, Linux, Prometheus, Grafana — and always leveling up.
+- Building **LLM-powered developer tooling** — Claude Code / Codex plugins, MCP servers, persistent dev memory — see below.
+- Pleased to meet you!
 
-## 🚀 Highlights
+## Highlights
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/highlights.svg" width="100%" alt="Highlights: Engineered and maintained enterprise-scale Billing &amp; Payment systems, serving as first line of support for production issues. Built automated end-to-end test pipelines, cutting a 30+ minute manual QA process down to minutes. Delivered internal tech talks to 200+ engineers and mentored new hires through code reviews." />
 </p>
 
-## 🛡️ SRE & Reliability
+## SRE & Reliability
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/sre-journey.svg" width="100%" alt="From commit to reliable production: Backend (Java / Kotlin) → Docker → Kubernetes → Prometheus → Grafana → SLOs &amp; error budgets, running on AWS and Linux." />
 </p>
 
-## 🤖 LLM & AI Tooling
+## LLM & AI Tooling
 
 I build LLM-powered tools that make day-to-day engineering faster and safer:
 
@@ -40,7 +40,7 @@ I build LLM-powered tools that make day-to-day engineering faster and safer:
 <a href="https://github.com/xinqilin/claude-dev-toolkit-marketplace"><img src="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-toolkit.svg" width="49%" alt="claude-dev-toolkit-marketplace: Claude Code plugin marketplace for Java / Spring Boot with 4 plugins: /code-review, /review-pr, /review-test, /design-solution, /optimize-query." /></a>
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Core**
 
@@ -61,7 +61,7 @@ I build LLM-powered tools that make day-to-day engineering faster and safer:
 </p>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
