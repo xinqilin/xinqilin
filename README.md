@@ -90,22 +90,22 @@ I build LLM-powered tools that make day-to-day engineering faster and safer:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    197 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-🌆 Daytime    310 commits    ███████░░░░░░░░░░░░░░░░░░   29.36% 
-🌃 Evening    346 commits    ████████░░░░░░░░░░░░░░░░░   32.77% 
-🌙 Night      203 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.22%
+🌞 Morning    203 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+🌆 Daytime    309 commits    ███████░░░░░░░░░░░░░░░░░░   29.21% 
+🌃 Evening    336 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
+🌙 Night      210 commits    █████░░░░░░░░░░░░░░░░░░░░   19.85%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       200 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
-Tuesday      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
-Wednesday    151 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.3% 
-Thursday     112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Friday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-Saturday     107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Sunday       188 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.8%
+Monday       198 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Wednesday    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+Thursday     113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
+Friday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.46% 
+Saturday     106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
+Sunday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.58%
 
 ```
 
@@ -116,34 +116,34 @@ Sunday       188 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   22.57% 
-Java                     3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.9% 
-HTML                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.02%
+Java                     7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.56% 
+Markdown                 6 hrs               ███████░░░░░░░░░░░░░░░░░░   27.95% 
+HTML                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06% 
+Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
+SQL                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
 
 🔥 Editors: 
-Claude Code              12 hrs 6 mins       ████████████████████░░░░░   80.68% 
-IntelliJ IDEA            2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+Claude Code              12 hrs 58 mins      ███████████████░░░░░░░░░░   60.29% 
+IntelliJ IDEA            6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.97% 
+VS Code                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
 
 💻 Operating System: 
-Mac                      15 hrs              █████████████████████████   100.0%
+Mac                      21 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     36 repos            ████████████░░░░░░░░░░░░░   48.0% 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Java                     36 repos            ████████████░░░░░░░░░░░░░   48.65% 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
 
 
 
- Last Updated on 27/09/2026
+ Last Updated on 03/10/2026
 <!--END_SECTION:waka-->
