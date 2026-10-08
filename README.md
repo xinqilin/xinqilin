@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=rounded&color=1F2937&height=160&section=header&text=Bill%20Lin&fontSize=40&fontColor=ffffff&desc=Senior%20Backend%20Engineer%20%7C%20SRE%20%7C%20LLM%20Tooling&descAlignY=72&descSize=17)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%7C+Java+%2F+Kotlin;Building+reliable+Billing+%26+Payment+systems;SRE+%26+Cloud+Reliability+%E2%80%94+always+leveling+up;Shipping+LLM+tools%3A+Claude+Code+plugins+%26+MCP" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%7C+Java+%2F+Kotlin;Building+reliable+Billing+%26+Payment+systems;SRE+%26+Cloud+Reliability+%E2%80%94+always+leveling+up;Shipping+Claude+Code+%26+Codex+plugins+%2B+MCP" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ I build LLM-powered tools that make day-to-day engineering faster and safer:
 
 <p align="center">
 <a href="https://github.com/xinqilin/dev-memory"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-memory-mobile.svg"><img src="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-memory.svg" width="49%" alt="dev-memory: Claude Code &amp; Codex CLI plugin that archives sessions into a local SQLite FTS5 memory with CJK-aware search, exposes memory_search over MCP, and turns code into locally reviewed tech docs opened as a PR." /></picture></a>
-<a href="https://github.com/xinqilin/claude-dev-toolkit-marketplace"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-toolkit-mobile.svg"><img src="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-toolkit.svg" width="49%" alt="claude-dev-toolkit-marketplace: Claude Code plugin marketplace for Java / Spring Boot with 4 plugins: /code-review, /review-pr, /review-test, /design-solution, /optimize-query." /></picture></a>
+<a href="https://github.com/xinqilin/java-backend-skills"><picture><source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-toolkit-mobile.svg"><img src="https://raw.githubusercontent.com/xinqilin/xinqilin/master/assets/readme/llm-dev-toolkit.svg" width="49%" alt="java-backend-skills: Claude Code &amp; Codex plugin with 13 skills for Spring Boot + JPA on MySQL / PostgreSQL that catches lost updates, N+1 queries and wrong indexes: /code-review, /review-pr, /review-test, /write-test, /optimize-query, /design-solution." /></picture></a>
 </p>
 
 ## Tech Stack

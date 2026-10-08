@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-labelledby="t d">
-  <title id="t">claude-dev-toolkit-marketplace</title>
-  <desc id="d">Claude Code plugin marketplace with 4 plugins for Java and Spring Boot teams: /code-review, /review-pr, /review-test, /design-solution and /optimize-query, plus effective-java, mysql-optimization and clean-architecture skills.</desc>
+  <title id="t">java-backend-skills</title>
+  <desc id="d">Claude Code and Codex plugin with 13 skills for Spring Boot + Spring Data JPA on MySQL and PostgreSQL: /java-backend:code-review, review-pr, review-test, write-test, optimize-query and design-solution, plus 7 knowledge skills such as transactions-consistency, jpa-hibernate and sql-performance.</desc>
   <style><![CDATA[
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
@@ -27,44 +27,49 @@
     }
     @media (prefers-reduced-motion: reduce) { .line { animation: none; opacity: 1; } }
   ]]></style>
-  
+
   <rect class="panel" x="0.5" y="0.5" width="419" height="229" rx="10"/>
   <g transform="translate(24 25)"><path class="repo" d="M-6 -7 H5 V7 H-4 A2 2 0 0 1 -6 5 Z M-6 5 A2 2 0 0 1 -4 3 H5"/></g>
-  <text class="name" x="38" y="30">claude-dev-toolkit-marketplace</text>
+  <text class="name" x="38" y="30">java-backend-skills</text>
   <g transform="translate(328 15)">
     <rect width="76" height="20" rx="10" fill="#5794F2" fill-opacity=".12" stroke="#5794F2" stroke-opacity=".45"/>
-    <text class="chip mono" x="38.0" y="14" fill="#5794F2" text-anchor="middle">4 PLUGINS</text>
+    <text class="chip mono" x="38.0" y="14" fill="#5794F2" text-anchor="middle">13 SKILLS</text>
   </g>
-  <text class="desc" x="16" y="56">Claude Code plugin marketplace for Java / Spring Boot —</text>
-  <text class="desc" x="16" y="72">code &amp; PR review, test review, design, SQL tuning.</text>
+  <text class="desc" x="16" y="56">Catches lost updates, N+1 queries and wrong indexes</text>
+  <text class="desc" x="16" y="72">in Spring Boot + JPA. For Claude Code &amp; Codex.</text>
   <rect class="term" x="16" y="86" width="388" height="130" rx="8"/>
-  
+
   <g class="line" style="animation-delay:0.35s">
-    <text class="t mono" x="28" y="108.0"><tspan class="prompt">›</tspan> <tspan class="cmd">/code-review</tspan></text>
-    <text class="t mono plugin" x="160" y="108.0">bill-code-reviewer</text>
-    <text class="t mono ok" x="392" y="108.0" text-anchor="end">✓</text>
+    <text class="t mono" x="28" y="104"><tspan class="prompt">›</tspan> <tspan class="cmd">/java-backend:code-review</tspan></text>
+    <text class="t mono plugin" x="236" y="104">code-reviewer</text>
+    <text class="t mono ok" x="392" y="104" text-anchor="end">✓</text>
   </g>
   <g class="line" style="animation-delay:0.85s">
-    <text class="t mono" x="28" y="127.5"><tspan class="prompt">›</tspan> <tspan class="cmd">/review-pr</tspan></text>
-    <text class="t mono plugin" x="160" y="127.5">bill-code-reviewer</text>
-    <text class="t mono ok" x="392" y="127.5" text-anchor="end">✓</text>
+    <text class="t mono" x="28" y="121"><tspan class="prompt">›</tspan> <tspan class="cmd">/java-backend:review-pr</tspan></text>
+    <text class="t mono plugin" x="236" y="121">code-reviewer</text>
+    <text class="t mono ok" x="392" y="121" text-anchor="end">✓</text>
   </g>
   <g class="line" style="animation-delay:1.35s">
-    <text class="t mono" x="28" y="147.0"><tspan class="prompt">›</tspan> <tspan class="cmd">/review-test</tspan></text>
-    <text class="t mono plugin" x="160" y="147.0">bill-billing-unit-test-reviewer</text>
-    <text class="t mono ok" x="392" y="147.0" text-anchor="end">✓</text>
+    <text class="t mono" x="28" y="138"><tspan class="prompt">›</tspan> <tspan class="cmd">/java-backend:review-test</tspan></text>
+    <text class="t mono plugin" x="236" y="138">test-reviewer</text>
+    <text class="t mono ok" x="392" y="138" text-anchor="end">✓</text>
   </g>
   <g class="line" style="animation-delay:1.85s">
-    <text class="t mono" x="28" y="166.5"><tspan class="prompt">›</tspan> <tspan class="cmd">/design-solution</tspan></text>
-    <text class="t mono plugin" x="160" y="166.5">bill-java-developer</text>
-    <text class="t mono ok" x="392" y="166.5" text-anchor="end">✓</text>
+    <text class="t mono" x="28" y="155"><tspan class="prompt">›</tspan> <tspan class="cmd">/java-backend:write-test</tspan></text>
+    <text class="t mono plugin" x="236" y="155">your conversation</text>
+    <text class="t mono ok" x="392" y="155" text-anchor="end">✓</text>
   </g>
   <g class="line" style="animation-delay:2.35s">
-    <text class="t mono" x="28" y="186.0"><tspan class="prompt">›</tspan> <tspan class="cmd">/optimize-query</tspan></text>
-    <text class="t mono plugin" x="160" y="186.0">bill-java-developer</text>
-    <text class="t mono ok" x="392" y="186.0" text-anchor="end">✓</text>
+    <text class="t mono" x="28" y="172"><tspan class="prompt">›</tspan> <tspan class="cmd">/java-backend:optimize-query</tspan></text>
+    <text class="t mono plugin" x="236" y="172">data-architect</text>
+    <text class="t mono ok" x="392" y="172" text-anchor="end">✓</text>
   </g>
   <g class="line" style="animation-delay:2.85s">
-    <text class="t mono" x="28" y="205.5"><tspan class="prompt">+</tspan> <tspan class="skill">skills</tspan><tspan class="plugin"> effective-java · mysql-optimization · clean-arch</tspan></text>
+    <text class="t mono" x="28" y="189"><tspan class="prompt">›</tspan> <tspan class="cmd">/java-backend:design-solution</tspan></text>
+    <text class="t mono plugin" x="236" y="189">your conversation</text>
+    <text class="t mono ok" x="392" y="189" text-anchor="end">✓</text>
+  </g>
+  <g class="line" style="animation-delay:3.35s">
+    <text class="t mono" x="28" y="206"><tspan class="prompt">+</tspan> <tspan class="skill">7 skills</tspan><tspan class="plugin"> transactions · jpa-hibernate · sql-perf · …</tspan></text>
   </g>
 </svg>
