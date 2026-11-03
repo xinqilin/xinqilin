@@ -90,20 +90,20 @@ I build LLM-powered tools that make day-to-day engineering faster and safer:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    217 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+🌞 Morning    219 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
 🌆 Daytime    328 commits    ███████░░░░░░░░░░░░░░░░░░   28.6% 
-🌃 Evening    379 commits    ████████░░░░░░░░░░░░░░░░░   33.04% 
-🌙 Night      223 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44%
+🌃 Evening    378 commits    ████████░░░░░░░░░░░░░░░░░   32.96% 
+🌙 Night      222 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.35%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       197 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
+Monday       199 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
 Tuesday      157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Wednesday    155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Wednesday    154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
 Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Friday       175 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.26% 
+Friday       174 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
 Saturday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
 Sunday       199 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.35%
 
@@ -116,19 +116,19 @@ Sunday       199 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   34.5% 
-Java                     6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   22.36% 
-HTML                     4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
-YAML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-SQL                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.3%
+Markdown                 10 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   35.87% 
+Java                     7 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   23.21% 
+HTML                     5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03% 
+YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+SQL                      1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
 
 🔥 Editors: 
-Claude Code              23 hrs 47 mins      ████████████████████░░░░░   82.66% 
-IntelliJ IDEA            4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+Claude Code              24 hrs 39 mins      ████████████████████░░░░░   80.66% 
+IntelliJ IDEA            5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 💻 Operating System: 
-Mac                      28 hrs 46 mins      █████████████████████████   100.0%
+Mac                      30 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -145,5 +145,5 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026
+ Last Updated on 03/11/2026
 <!--END_SECTION:waka-->
